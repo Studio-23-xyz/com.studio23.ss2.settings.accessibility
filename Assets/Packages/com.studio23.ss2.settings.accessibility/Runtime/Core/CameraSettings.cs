@@ -42,7 +42,7 @@ namespace Studio23.SS2.Settings.Accessibility.Core
         }
 
         public float ReturnMaximumFov => _cameraSettingsConfiguration.MaximumCameraFOV;
-        public float ReturnMinimumFov => _cameraSettingsConfiguration.MaximumCameraFOV;
+        public float ReturnMinimumFov => _cameraSettingsConfiguration.MinimumCameraFOV;
         public float ReturnStartingFov => _cameraSettingsConfiguration.StartingCameraFOV;
 
     }

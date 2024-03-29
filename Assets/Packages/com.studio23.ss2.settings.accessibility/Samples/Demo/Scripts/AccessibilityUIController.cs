@@ -13,8 +13,8 @@ public class AccessibilityUIController : MonoBehaviour
 
     void Start()
     {
-        Initialize();
         _settingsController = AccessibilitySettingsController.Instance;
+        Initialize();
     }
 
     public void Initialize()
