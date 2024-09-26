@@ -1,12 +1,19 @@
 {
-  "name": "com.studio23.ss2.settings.accessibility",
-  "references": [],
-  "optionalUnityReferences": [],
-  "includePlatforms": [],
-  "excludePlatforms": [],
-  "allowUnsafeCode": false,
-  "overrideReferences": false,
-  "precompiledReferences": [],
-  "autoReferenced": true,
-  "defineConstraints": []
+    "name": "com.studio23.ss2.settings.accessibility",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:84651a3751eca9349aac36a66bba901b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

@@ -19,7 +19,8 @@
   ],
   "dependencies": {
     "com.unity.cinemachine": "2.9.7",
-    "com.unity.localization": "1.4.5"
+    "com.unity.localization": "1.4.5",
+	"com.cysharp.unitask": "2.5.3"
   },
   "samples": [
     {
