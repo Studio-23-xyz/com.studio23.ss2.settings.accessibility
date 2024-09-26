@@ -1,0 +1,43 @@
+{
+  "name": "com.studio23.ss2.settings.accessibility",
+  "version": "1.0.0",
+  "displayName": "Accessibility Setting",
+  "description": "This is accessibility setting for unity. Used for chaging in game accessibility settings like language, Subtitle, camera fov etc...",
+  "unity": "2022.3",
+  "unityRelease": "14f1",
+  "documentationUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.settings.accessibility/manual/",
+  "changelogUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.settings.accessibility/changelog/CHANGELOG.html",
+  "licensesUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.settings.accessibility/license/LICENSE.html",
+  "scopedRegistries": [
+    {
+      "name": "Studio 23",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.studio23.ss2.setings"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.unity.cinemachine": "2.9.7",
+    "com.unity.localization": "1.4.5"
+  },
+  "samples": [
+    {
+      "displayName": "Example",
+      "description": "A small sample to demonstrate the abilities of the package.",
+      "path": "Samples~/Demo"
+    }
+  ],
+  "keywords": [
+    "Accessibility",
+	"Settings",
+    "Subtitle",
+    "Language",
+	"Camera"
+  ],
+  "author": {
+    "name": "Studio 23",
+    "email": "contact@studio-23.xyz",
+    "url": "https://studio-23.xyz"
+  }
+}
